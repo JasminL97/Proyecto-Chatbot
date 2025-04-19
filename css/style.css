@@ -1,0 +1,155 @@
+/*Dar color de fondo de la universidad*/
+body
+	{
+		background-color: #5D0A28; /*fondo del portal UTEC */
+	}
+tbody
+	{
+		display:table-row-group;
+		vertical-align: middle;
+		unicode-bidi: isolate;
+		border-color: inherit;
+	}	
+/*Darle estilo a la tabla donde se encuentra el formulario*/
+.style0 
+	{
+		position: absolute;
+		top: 50%;
+		left: 48%;
+		width:500px;
+		margin-left: -200px;
+		height: 333px;
+		margin-top: -150px;
+		border: 0px solid #808080;
+		padding:5px;
+	}
+*
+	{
+		margin:0;
+		padding:0;
+		outline:0;
+		text-decoration:none;
+		box-sizing: border-box !important;
+		-webkit-box-sizing: border-box !important;
+		-moz-box-sizing: border-box !important;
+		-ms-box-sizing: border-box !important;
+	}
+	table{
+		display: table;
+		border-collapse: separate;
+		box-sizing:border-box;
+		text-indent: initial;
+		unicode-bidi:isolate;
+		border-spacing:2px;
+		border-color:gray;
+	}
+	tr
+	{
+		display: table-row;
+		vertical-align: inherit;
+		unicode-bidi: isolate;
+		border-color: inherit
+	}
+	center
+	{
+		text-align: webkit-center;
+	}
+	
+/*Dar estilo a los navegadores*/
+.browsers
+	{
+		position: absolute;
+		left: 57%;
+		margin-left: -200px;
+		border: 0px solid #808080;
+		padding: 5px;
+		text-align: center;
+		color: #FFFFFF;
+		font-size:6px;
+	}
+		
+
+img
+	{
+		overflow-clip-margin: content-box;
+		overflow: clip;
+	}
+	
+div
+	{
+		display: block;
+		unicode-bidi:isolate;
+	}
+	
+/*Espacio entre el texto y las imagenes*/
+p
+	{
+		margin-bottom: 0px; 
+		font-size: 0.5rem; /*tamaño*/
+
+	}
+	
+.style1
+	{
+		width:356px;
+	}
+	
+*	{
+		margin:0;
+		padding:0;
+		outline:0;
+		text-decoration:none;
+		box-sizing: border-box !important;
+		-webkit-box-sizing: border-box !important;
+	}
+	
+	td
+	{
+		display: table-cell;
+		vertical-align:inherit;
+		unicode-bidi: isolate;
+	}
+	
+.w8-button
+	{
+		display: table;
+		padding: 7px 15px 8px 15px;
+		border: none;
+		font-family: verdana; /*fuente del texto*/
+		font-size: 13px;
+		font-weight: bold;
+		cursor: pointer;
+		opacity: 0.9;
+	}
+.w8-button.grey
+	{
+		background-color: #474747;
+	}
+
+ /* Animación personalizada del bot */
+    @keyframes slideInLeft {
+      0% {
+        transform: translateX(-100%);
+        opacity: 0;
+      }
+      100% {
+        transform: translateX(0);
+        opacity: 1;
+      }
+    }
+
+.animate-slideInLeft {
+      animation: slideInLeft 1s ease-out;
+    }
+
+ /* tamaño personalizado del bot */
+.custom-img 
+	{
+		position: fixed;
+		width: 75px; /* Ajusta el ancho de la imagen */
+		height: auto; /* Mantiene la proporción de la imagen */
+		bottom: 20px; /* Distancia desde el fondo */
+		right: 20px; /* Distancia desde la derecha */
+		cursor: pointer;
+		z-index: 1000; /* Asegura que esté encima de otros elementos */	  
+	}
