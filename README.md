@@ -17,8 +17,7 @@ Este proyecto es un chatbot interactivo para responder preguntas frecuentes de l
 
 ## 📷 Capturas
 
-![Chatbot funcionando](./assets/captura-chatbot.png)
-
+![Captura del portal](imagenes_bot/captura1.png)
 ## 👩‍💻 Autora
 
 Jasmin Díaz - Estudiante de Ingeniería en Sistemas - UTEC
