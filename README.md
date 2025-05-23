@@ -17,7 +17,17 @@ Este proyecto es un chatbot interactivo para responder preguntas frecuentes de l
 
 ## 📷 Capturas
 
+## 🖼️ Vista del portal
 ![Captura del portal](imagenes_bot/Captura1.png)
+
+## 🖼️ Vista de la interfaz del chatbot TechUTEC
+![Captura de la interfaz del chatbot abierto](imagenes_bot/Captura2.png)
+
+## 🖼️ Vista del chatbot realizando una consulta y dando una respuesta
+
+![Captura consulta y respuesta del chatbot](imagenes_bot/Captura3.png)
+
+
 ## 👩‍💻 Autora
 
 Jasmin Díaz - Estudiante de Ingeniería en Sistemas - UTEC
