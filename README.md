@@ -25,7 +25,9 @@ Este proyecto es un chatbot interactivo para responder preguntas frecuentes de l
 
 ## 🖼️ Vista del chatbot realizando una consulta y dando una respuesta
 
-![Captura consulta y respuesta del chatbot](imagenes_bot/Captura3.png)
+![Captura del usuario realizando la consulta al chatbot](imagenes_bot/Captura3.png)
+![Captura de la respuesta del chatbot dada al usuario](imagenes_bot/Captura4.png)
+
 
 
 ## 👩‍💻 Autora
